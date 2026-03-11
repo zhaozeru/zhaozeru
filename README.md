@@ -89,7 +89,7 @@
 
 # ⭐ 项目实践
 
-| 项目维度 | [数据自动核对工具] （https://github.com/zhaozeru/FinancialCheckAgent） | [论文自动排版Agent工具] （https://github.com/zhaozeru/Typesetting-agent-for-paper）| [武康遗风]（https://github.com/zhaozeru/RAG_WKroad）|
+| 项目维度 | [数据自动核对工具](https://github.com/zhaozeru/FinancialCheckAgent) | [论文自动排版Agent工具](https://github.com/zhaozeru/Typesetting-agent-for-paper)| [武康遗风](https://github.com/zhaozeru/RAG_WKroad)|
 |---|---|---|---|
 | 项目类型 | AI + 教育产品 | 自动化工具 | 文档自动化工具 |
 | 核心痛点 | 教师批改作业耗时、学习反馈不及时 | 飞书文档难以批量导出和归档 | 技术文档数据难以自动生成 |
