@@ -17,26 +17,33 @@
 - 🧠 相对擅长：用户调研与需求分析 / AI工具组合 / 技术理解 / 快速原型
 - 📍 目前地点：天津
 ---
+<div style="display: flex; gap: 40px; flex-wrap: wrap;">
+  
+  <!-- 左栏 -->
+  <div style="flex: 1; min-width: 300px; border-left: 2px solid #666; padding-left: 20px; background-color: #1e1e1e; border-radius: 8px; padding: 15px;">
+    <h3>西安言古科技有限责任公司 | AI产品经理实习</h3>
+    <p>参与知识库、知识图谱与智能体平台 CoreKG 产品设计与开发：</p>
+    <ul>
+      <li>参与客户需求调研与产品方案设计</li>
+      <li>编写PRD并设计Figma原型</li>
+      <li>负责知识图谱模块设计</li>
+      <li>协调研发团队推进功能落地</li>
+    </ul>
+  </div>
 
-## 💼 实习经历
+  <!-- 右栏 -->
+  <div style="flex: 1; min-width: 300px; border-left: 2px solid #666; padding-left: 20px; background-color: #1e1e1e; border-radius: 8px; padding: 15px;">
+    <h3>天津市广宇通信息科技有限公司 | AI应用研发实习</h3>
+    <p>参与港口集装箱码头智能客服Agent研发：</p>
+    <ul>
+      <li>进行业务流程分析与数据调研</li>
+      <li>基于LangGraph构建Agent工作流</li>
+      <li>实现客服问答与工单生成流程</li>
+      <li>输出产品Demo验证AI应用方案</li>
+    </ul>
+  </div>
 
-#### 西安言古科技有限责任公司｜AI产品经理实习
-
-参与知识库、知识图谱与智能体平台 CoreKG 产品设计与开发：
-
-- 参与客户需求调研与产品方案设计
-- 编写PRD并设计Figma原型
-- 负责知识图谱模块设计
-- 协调研发团队推进功能落地
-
-#### 天津市广宇通信息科技有限公司｜AI应用研发实习
-
-参与港口集装箱码头智能客服Agent研发：
-
-- 进行业务流程分析与数据调研
-- 基于LangGraph构建Agent工作流
-- 实现客服问答与工单生成流程
-- 输出产品Demo验证AI应用方案
+</div>
 ---
 
 ## 🛠 AI技术实践与工具
