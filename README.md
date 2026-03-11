@@ -42,16 +42,19 @@
 ## 🛠 AI技术实践与工具
 
 <p>
+  <!-- 数据库与工具 -->
+  <img src="https://skillicons.dev/icons?i=mysql" height="30"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="30"/>
+  <img src="https://cdn.simpleicons.org/neo4j" height="30"/>
+  <br/>
 
-
-<!-- 数据库与工具 -->
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,figma"/>
-<img src="https://cdn.simpleicons.org/neo4j" height="40"/>
-<br/>
-
-<!-- 编程与系统 -->
-<img src="https://skillicons.dev/icons?i=python,vue,docker,linux,git"/>
-
+  <!-- 编程与系统 -->
+  <img src="https://skillicons.dev/icons?i=python" height="30"/>
+  <img src="https://skillicons.dev/icons?i=vue" height="30"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="30"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="30"/>
+  <img src="https://skillicons.dev/icons?i=git" height="30"/>
 </p>
 熟悉的 AI 技术框架与应用模式：
 
