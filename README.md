@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Zhao%20Zeru&fontSize=40"/>
+</p>
 <h1 align="center">你好，我是 Zhao Zeru 👋</h1>
 
 <p align="center">
