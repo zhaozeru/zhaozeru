@@ -45,18 +45,7 @@
 - GraphRAG
 - Prompt Engineering
 - AI Agent 架构设计
-  
-#### 🧩 技术实践
-| 技术领域 | 技术 |
-|------|------|
-| AI应用 | RAG / KnowledgeGraph / Agent / LLM API / Prompt Engineering |
-| 后端 | Python |
-| 前端 | JavaScript / Vue |
-| 数据库 | MySQL / MongoDB / Neo4j |
-| DevOps | Docker / Linux |
-| 产品工具 | Git / API / 自动化脚本 / Protege / Figma |
 ---
-
 ## ⭐ 项目实践
 
 | 项目 | [数据自动核对工具](https://github.com/zhaozeru/FinancialCheckAgent) | [论文自动排版Agent工具](https://github.com/zhaozeru/Typesetting-agent-for-paper)| [武康遗风](https://github.com/zhaozeru/RAG_WKroad)| [飞书 to md](https://github.com/zhaozeru/feishu2md)| [组卷网爬虫](https://github.com/zhaozeru/zujuan-spider) | [网站新闻监听爬虫](https://github.com/zhaozeru/MonitorWebCrawler) |
@@ -68,6 +57,18 @@
 | 技术 | Dify + Prompt + LangSmith | LangGraph + LangSmith | Wix + Vue + Python + MongoDB + LangChain + rag + Knowledge + TTS | 飞书开发者后台 | Python + Requests + BeautifulSoup4 | Python + Requests + BeautifulSoup4 + Playwright |
 | 产出| agent工作流 | 多agent协同架构 | 网站 | 脚本工具 | 数据抓取脚本与结构化数据集 | 可配置、易扩展的网站新闻监听爬虫脚本 |
 ---
+#### 🧩 技术实践
+| 技术领域 | 技术 |
+|------|------|
+| AI应用 | RAG / KnowledgeGraph / Agent / LLM API / Prompt Engineering |
+| 后端 | Python |
+| 前端 | JavaScript / Vue |
+| 数据库 | MySQL / MongoDB / Neo4j |
+| DevOps | Docker / Linux |
+| 产品工具 | Git / API / 自动化脚本 / Protege / Figma |
+---
+
+
 
 ## 🧠 产品能力实践
 
