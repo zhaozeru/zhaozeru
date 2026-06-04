@@ -59,14 +59,14 @@
 
 ## ⭐ 项目实践
 
-| 项目维度 | [数据自动核对工具](https://github.com/zhaozeru/FinancialCheckAgent) | [论文自动排版Agent工具](https://github.com/zhaozeru/Typesetting-agent-for-paper)| [武康遗风](https://github.com/zhaozeru/RAG_WKroad)| [飞书 to md](https://github.com/zhaozeru/feishu2md)|
-|---|---|---|---|---|
-| 项目类型 | 财务核对流程agent工作流 | 多agent协同模式 | 网页建设+知识图谱+RAG问答 | 实用脚本工具 |
-| 核心痛点 | 人工核对财务数据耗时、易出错，缺乏流程追踪 | 多家期刊论文格式不一且复杂，手动排版效率低 | 如何将结构化数据发挥数据价值 | 飞书文档未提供MD格式转换接口 |
-| 涉及功能 | 自动比对多源财务数据、异常标记、LangSmith 可视化追踪、一键生成对比报告|  排版需求解读、论文段落拆解、文字排版、参考文献检查、自动发送结果到邮箱 | 地图展示、生平介绍、知识图谱展示、智能问答小窗、TTS导游讲解 | API请求形式，返回md格式文档 |
-| 用户价值 | 一键核对多源数据信息，附带完整报告，提高工作效率 | 端到端地消除一篇论文多次修改格式这样的枯燥动作 | 提升数据价值，数字文旅信息多维展示 | 自动转换格式，高效快捷 |
-| 技术实现 | Dify + Prompt + LangSmith | LangGraph + LangSmith | Wix + Vue + Python + MongoDB + LangChain + rag + Knowledge + TTS | 飞书开发者后台 |
-| 产出| agent工作流 | 多agent协同架构 | 网站 | 脚本工具 |
+| 项目 | [数据自动核对工具](https://github.com/zhaozeru/FinancialCheckAgent) | [论文自动排版Agent工具](https://github.com/zhaozeru/Typesetting-agent-for-paper)| [武康遗风](https://github.com/zhaozeru/RAG_WKroad)| [飞书 to md](https://github.com/zhaozeru/feishu2md)| [组卷网爬虫](https://github.com/zhaozeru/zujuan-spider) | [网站新闻监听爬虫](https://github.com/zhaozeru/MonitorWebCrawler) |
+|---|---|---|---|---|---|---|
+| 类型 | 财务核对流程agent工作流 | 多agent协同模式 | 网页建设+知识图谱+RAG问答 | 实用脚本工具 | 垂直领域定向爬虫 | 通用型新闻监控爬虫 |
+| 痛点 | 人工核对财务数据耗时、易出错，缺乏流程追踪 | 多家期刊论文格式不一且复杂，手动排版效率低 | 如何将结构化数据发挥数据价值 | 飞书文档未提供MD格式转换接口 | 教研备考需要获取结构化的知识点与章节体系，手动整理耗时 | 需同时监控多个军事资讯网站，手动查看费时且容易遗漏重要信息 |
+| 功能 | 自动比对多源财务数据、异常标记、LangSmith 可视化追踪、一键生成对比报告| 排版需求解读、论文段落拆解、文字排版、参考文献检查、自动发送结果到邮箱 | 地图展示、生平介绍、知识图谱展示、智能问答小窗、TTS导游讲解 | API请求形式，返回md格式文档 | 抓取指定科目的知识点结构、抓取教材章节目录与对应内容、将抓取数据结构化输出 | 双模式抓取（静态+动态渲染）、基于MD5的智能去重、结构化JSON输出、灵活的配置文件扩展 |
+| 价值 | 一键核对多源数据信息，附带完整报告，提高工作效率 | 端到端地消除一篇论文多次修改格式这样的枯燥动作 | 提升数据价值，数字文旅信息多维展示 | 自动转换格式，高效快捷 | 为教研、备考或分析提供系统化、可复用的结构化知识数据基础 | 自动化、高频次地监控多个目标源，第一时间获取并整合最新资讯 |
+| 技术 | Dify + Prompt + LangSmith | LangGraph + LangSmith | Wix + Vue + Python + MongoDB + LangChain + rag + Knowledge + TTS | 飞书开发者后台 | Python + Requests + BeautifulSoup4 | Python + Requests + BeautifulSoup4 + Playwright |
+| 产出| agent工作流 | 多agent协同架构 | 网站 | 脚本工具 | 数据抓取脚本与结构化数据集 | 可配置、易扩展的网站新闻监听爬虫脚本 |
 ---
 
 ## 🧠 产品能力实践
